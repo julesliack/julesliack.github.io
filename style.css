@@ -51,7 +51,7 @@ img.profile{
   display: inline-block;
   float: left;
   margin-right: 20px;
-  margin-top: 3px;
+  padding-top: 3px;
 }
 
 a:link{
