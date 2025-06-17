@@ -1,8 +1,6 @@
 body{
   background-color: #363431;
-}
-
-h1.main{
+} h1.main{
   margin: auto;
   width: 700px;
   
@@ -11,8 +9,6 @@ h1.main{
   
   background-color: #120E10;
   color: white;
-  font-weight: normal;
-  font-style: normal;
   border-bottom: 3px solid #363431;
 }
 
@@ -61,10 +57,20 @@ a:link{
   font-style: italic;
 }
 
+h1:link{
+  text-decoration: none;
+  font-style: normal;
+}
+
 a:visited{
   text-decoration: none;
   color: #93035D;
   font-style: italic;
+}
+
+h1:visited{
+  text-decoration: none;
+  font-style: normal;
 }
 
 a:hover{
@@ -73,10 +79,20 @@ a:hover{
   font-style: italic;
 }
 
+h1:hover{
+  text-decoration: none;
+  font-style: normal;
+}
+
 a:active{
   text-decoration: none;
   color: #93035D;
   font-style: italic;
+}
+
+h1:active{
+  text-decoration: none;
+  font-style: normal;
 }
 
 footer {
