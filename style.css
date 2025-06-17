@@ -63,16 +63,6 @@ a:visited{
   color: #93035D;
 }
 
-a:hover{
-  text-decoration: none;
-  color: #93035D;
-}
-
-a:active{
-  text-decoration: none;
-  color: #93035D;
-}
-
 footer {
   margin: auto;
   width: 700px;
