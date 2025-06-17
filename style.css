@@ -9,7 +9,8 @@ h1{
   padding: 3px;
   padding-bottom: 0px;
   
-  background-color: white;
+  background-color: #120E10;
+  color: white;
   border-bottom: 3px solid #62023E;
 }
 
@@ -50,7 +51,6 @@ img.profile{
   display: inline-block;
   float: left;
   margin-right: 20px;
-  border: 3px inset #93035D;
 }
 
 a:link{
