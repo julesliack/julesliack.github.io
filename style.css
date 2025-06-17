@@ -56,21 +56,25 @@ img.profile{
 a:link{
   text-decoration: none;
   color: #93035D;
+  font-style: italic;
 }
 
 a:visited{
   text-decoration: none;
   color: #93035D;
+  font-style: italic;
 }
 
 a:hover{
   text-decoration: none;
   color: #93035D;
+  font-style: italic;
 }
 
 a:active{
   text-decoration: none;
   color: #93035D;
+  font-style: italic;
 }
 
 footer {
@@ -80,6 +84,5 @@ footer {
   padding: 0px;
   
   font-weight: normal;
-  font-style: italic;
   color: white;
 }
